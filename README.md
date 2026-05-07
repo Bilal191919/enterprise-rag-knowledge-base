@@ -960,10 +960,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_REPO/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_REPO/discussions)
-- **Email**: support@yourdomain.com
-- **Documentation Wiki**: [Wiki](https://github.com/YOUR_REPO/wiki)
+
+- **Email**: hafizbilal1919@gmail.com
+
 
 ---
 
